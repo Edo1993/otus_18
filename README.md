@@ -61,3 +61,4 @@ ________________________________________________________________________________
 [Vagrantfile](https://github.com/Edo1993/otus_18/blob/master/Vagrantfile) , который всё разворачивает
 
 ```ip route``` на centralRouter, office1Router, office2Router
+![Image_alt](https://github.com/Edo1993/otus_18/blob/master/181.png)
